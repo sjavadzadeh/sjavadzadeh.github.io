@@ -2915,7 +2915,16 @@ input, select, textarea {
 	margin-left: 71%;
 	color: #D6404A;
 }
-	/* .resume {
-		border: black 1px;
-		border-radius: 10px;
-	} */
+
+.links {
+	display: flex;
+}
+
+.links-ul {
+	display: flex;
+	list-style-type: none;
+}
+
+.project {
+	margin-bottom: 25px;
+}
