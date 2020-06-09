@@ -2907,13 +2907,15 @@ input, select, textarea {
 
 	}
 
-.projects-header {
+.location-date-box {
 	display: flex;
+	justify-content: space-between;
+	margin-bottom: 2%;
 }	
 
 .duration {
-	margin-left: 71%;
 	color: #D6404A;
+	margin-right: 6%;
 }
 
 .links {
@@ -2927,4 +2929,12 @@ input, select, textarea {
 
 .project {
 	margin-bottom: 25px;
+}
+
+.interest-fields {
+	margin-bottom: 20px;
+}
+
+.date {
+	color: #D6404A;
 }
